@@ -1,5 +1,5 @@
 # Recipe
-CAUTION:
+ATTENTION:
   this is not the latest release
   please go to the 'releases' tab for the latest version
 
